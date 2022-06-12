@@ -1,0 +1,35 @@
+:root{
+  --white: #FFF;
+
+  --gray-50: #F7F8FA;
+  --gray-100: #E6E8EB;
+  --gray-200: #AFB2B1;
+  --gray-500: #808080;
+  --gray-800: #494D4B;
+  
+  --green--500: #84D361;
+
+  --purple--300: #9F75FF;
+  --purple--400: #9164FA;
+  --purple--500: #8257E5;
+  --purple--800: #6F48C9;
+
+  --dark-blue: #120d46;
+}
+
+
+html,
+body {
+  color: wheat;
+    background-color:var(--gray-800);
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+

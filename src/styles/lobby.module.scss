@@ -1,0 +1,26 @@
+.container {
+    height: 100%;
+    padding-top: 5%;
+    padding-bottom: 23%;
+    margin-left: 7%;
+    margin-right: 7%;
+    margin-bottom: 0;
+
+    text-align: center;
+
+    background-color: var(--dark-blue);
+    h1{
+        font-size: 8rem;
+        
+    }
+    input{
+        width: 20rem;
+        height: 2rem;
+        border-radius: 20px;
+    }
+    button{
+        width: 5rem;
+        height: 2rem;
+        border-radius: 20px;
+    }
+}
